@@ -1,6 +1,6 @@
 # Togliatti, Russian Federation
 
-<img src="https://github.com/beerjs/togliatti/blob/edit-readme/beerjs-tlt.png?raw=true" alt="BeerJS Еogliatti" width="600" height="444" />
+<img src="https://github.com/beerjs/togliatti/blob/edit-readme/beerjs-tlt.png?raw=true" alt="BeerJS Togliatti" width="600" height="444" />
 
 ### When?
 When we are bored of our works and we want to rest, to speak with each other, to know something new from our friends from all over the city.
