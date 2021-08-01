@@ -1,5 +1,7 @@
 # Togliatti, Russian Federation
 
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/beerjs_tlt)  
+
 ![BeerJS Togliatti](https://github.com/beerjs/togliatti/blob/master/beerjs-tlt.png?raw=true)
 
 ### When?
@@ -17,5 +19,6 @@ If you have to demonstrate something or to ask for help with your project, you c
 
 ### Feedback
 You can create an issue in this repo.
+You can also join us in our Telegram channel: https://t.me/beerjs_tlt
 
 ### ⚠️ Remember, the main purpose of this event is not to get drunk, but to share the experience.
